@@ -9,4 +9,4 @@ class MainPage:
             #browser.driver.execute_script("$('footer').remove()")
 
     def kino_na_TV_should_be_visible(self):
-            browser.element('#main_header').should(have.text('Кино на ТВ'))
+            browser.element('#main_header').should(have.text('Журнал'))
