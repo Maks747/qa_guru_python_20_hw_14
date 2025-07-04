@@ -1,5 +1,4 @@
 from start.model.pages.main_page import MainPage
-from selene import have
 import allure
 
 @allure.title('Главный экран')
