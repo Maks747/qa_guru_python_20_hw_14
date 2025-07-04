@@ -11,6 +11,6 @@
 Создана сборка [Ссылка на джобу](https://jenkins.autotests.cloud/job/qa_guru_python_20_hw_jenkins_14/)
 ![alt-текст](https://github.com/Maks747/qa_guru_python_20_hw_14/blob/main/resources/Jenkins.PNG)
 
-Все тесты запускаются на удаленном браузере с использованием Selenoid:
+### Все тесты запускаются на удаленном браузере с использованием Selenoid:
 Логин и пароль для доступа к Selenoid хранятся в переменных среды
 
