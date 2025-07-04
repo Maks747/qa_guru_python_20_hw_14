@@ -12,5 +12,5 @@ class TVPage:
         self.button_tv.click()
 
     def check_tv_page_title(self):
-        (browser.element('.CatalogRedesigned_page_wrapper__uuM_W').should
+        (browser.element('.TvSchedule_container__VQpHm').should
          (have.text('ТВ Каналы Онлайн и Программа Передач')))
