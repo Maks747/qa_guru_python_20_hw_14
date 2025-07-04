@@ -9,3 +9,5 @@
 
 # Запуск автотестов выполняется на сервере Jenkins
 Создана сборка [Ссылка на джобу](https://jenkins.autotests.cloud/job/qa_guru_python_20_hw_jenkins_14/)
+![Uploading image.png…]()
+
