@@ -15,3 +15,4 @@
 Логин и пароль для доступа к Selenoid хранятся в переменных среды
 
 ### К прогонам добавлена генерация отчетов на Allure:
+![alt-текст](https://github.com/Maks747/qa_guru_python_20_hw_14/blob/main/resources/Allure%20report.PNG)
