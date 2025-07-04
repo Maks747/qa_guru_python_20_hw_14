@@ -6,7 +6,7 @@ class NewPage:
         self.button_new = browser.element('[data-testid="new_button"]')
 
     def open_main_page(self):
-        browser.open('https://start.ru/')
+        browser.open("")
 
     def click_button_new(self):
         self.button_new.click()

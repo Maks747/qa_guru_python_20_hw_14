@@ -6,7 +6,7 @@ class TVPage:
         self.button_tv = browser.element('[data-testid="tv_button"]')
 
     def open_main_page(self):
-        browser.open('https://start.ru/')
+        browser.open("")
 
     def click_button_tv(self):
         self.button_tv.click()

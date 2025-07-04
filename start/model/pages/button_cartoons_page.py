@@ -6,7 +6,7 @@ class CartoonsPage:
         self.button_cartoons = browser.element('[data-testid="animation_button"]')
 
     def open_main_page(self):
-        browser.open('https://start.ru/')
+        browser.open("")
 
     def click_button_cartoons(self):
         self.button_cartoons.click()

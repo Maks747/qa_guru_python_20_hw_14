@@ -6,7 +6,7 @@ class SeriesPage:
         self.button_series = browser.element('[data-testid="series_button"]')
 
     def open_main_page(self):
-        browser.open('https://start.ru/')
+        browser.open("")
 
     def click_button_series(self):
         self.button_series.click()

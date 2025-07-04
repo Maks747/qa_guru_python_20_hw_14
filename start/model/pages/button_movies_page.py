@@ -6,7 +6,7 @@ class MoviesPage:
         self.button_movies = browser.element('[data-testid="movies_button"]')
 
     def open_main_page(self):
-        browser.open('https://start.ru/')
+        browser.open("")
 
     def click_button_movies(self):
         self.button_movies.click()

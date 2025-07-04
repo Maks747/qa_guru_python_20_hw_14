@@ -3,7 +3,7 @@ from selene import browser, have
 
 class MainPage:
     def open_main_page(self):
-            browser.open('https://start.ru/')
+            browser.open("")
 
             #browser.driver.execute_script("$('#fixedban').remove()")
             #browser.driver.execute_script("$('footer').remove()")
