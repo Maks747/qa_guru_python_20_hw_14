@@ -9,5 +9,5 @@ def test_main_page(browser_settings):
         main_page = MainPage()
         main_page.open_main_page()
 
-    with allure.step('Кино на ТВ - отображается в верхнем меню'):
+    with allure.step('Журнал - отображается в верхнем меню'):
         main_page.kino_na_TV_should_be_visible()
