@@ -23,4 +23,4 @@
 ![alt-текст](https://github.com/Maks747/qa_guru_python_20_hw_14/blob/main/resources/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D1%82%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D0%BE%D0%B2.PNG) 
 
 #### После прогона добавлено уведомление в telegram о прохождении тест-кейсов
-![alt-текст] 
+![alt-текст](https://github.com/Maks747/qa_guru_python_20_hw_14/blob/main/resources/IMG_9899.jpg) 
