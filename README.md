@@ -8,4 +8,4 @@
 *   Кликабельность кнопки "Сериалы".
 
 # Запуск автотестов выполняется на сервере Jenkins
-Создана сборка [https://jenkins.autotests.cloud/job/qa_guru_python_20_hw_jenkins_14/]
+Создана сборка [Ссылка на джобу]([https://jenkins.autotests.cloud/job/qa_guru_python_20_hw_jenkins_14/])
