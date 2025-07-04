@@ -46,16 +46,13 @@ def browser_settings(request):
         command_executor=f"https://{selenoid_login}:{selenoid_pass}@{selenoid_url}/wd/hub",
         options=options
     )
-
     browser.config.driver = driver
-    #browser.config.timeout = 50
     browser.config.driver.maximize_window()
 
     yield browser
 
+    attach.add_html(browser)
     attach.add_screenshot(browser)
     attach.add_logs(browser)
-    attach.add_html(browser)
     attach.add_video(browser)
-
     browser.quit()
